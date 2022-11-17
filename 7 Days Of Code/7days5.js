@@ -1,9 +1,5 @@
-let lista = [];
+let lista, frutas, laticinios, congelados, doces = [];
 let item = "";
-let frutas = [];
-let laticinios = [];
-let congelados = [];
-let doces = [];
 let itemAdicionar = true;
 let opcao = "";
 
